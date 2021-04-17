@@ -10,7 +10,7 @@
 
 **总体流程如下图:[^0]
 
-[^0]:[从URL输入到页面展现到底发生什么？](https://github.com /ljianshu/Blog/issues/24)
+[^0]:[从URL输入到页面展现到底发生什么?](https://github.com/ljianshu/Blog/issues/24)
 
 ![](https://gitee.com/istarwyh/images/raw/master/1617621094_20210405191108954_15113.png)
 
