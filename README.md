@@ -61,13 +61,13 @@ Windows的 ``SendMessage`` API直接将消息添加到特定窗口句柄 ``hWnd`
 ## 4. DNS 查询···
 通过URL寻找用IP地址标志的哪台机器上有你需要资源的过程或者说技术。[^1]
 ### 4.1. URL: Uniform Resorce Location
-浏览器地址栏上的地址就是`URL`.以url:`https://segmentfault.com/a/12345#item-1-1`为例:
+浏览器地址栏上的地址就是`URL`.以url:`https://google.com/a/12345#item-1-1`为例:
 
-`https://` ~~WWW.~~  `segmentfault.com` ~~.~~  ~~:443~~ `/a/12345` `#item-1-1`
+`https://` ~~WWW.~~  `google.com` ~~.~~  ~~:443~~ `/a/12345` `#item-1-1`
 
 - 协议,如`https`
 - 主机服务器,如`www.segmentfault.com`
-- 域名,如`segmentfault.com`
+- 域名,如`google.com`
 - 端口,如`443`
 - 套接字,如`https://WWW.segmentfault.com:443`
 - 服务器内路径,如`/a/12345`
